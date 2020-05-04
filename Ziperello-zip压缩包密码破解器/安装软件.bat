@@ -1,0 +1,1 @@
+@start iexplore.exe http://www.jfsky.com
